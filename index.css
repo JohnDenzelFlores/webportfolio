@@ -1,0 +1,29 @@
+#nav{
+	background-color: #a59e8cff;
+}
+
+#nav{
+	font-family: 'Raleway', sans-serif;
+}
+
+#home{
+	font-family: 'Raleway', sans-serif;
+}
+
+i{
+	color: white;
+}
+
+#banner{
+	background-image: url(https://images.pexels.com/photos/414645/pexels-photo-414645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-position: center;
+	background-size: cover;
+}
+
+#footerHome{
+	font-family: 'Raleway', sans-serif;
+}
+
+#footerHome{
+	background-color: #a59e8cff;
+}
