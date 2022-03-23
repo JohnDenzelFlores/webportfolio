@@ -1,0 +1,46 @@
+#nav{
+	background-color: #a59e8cff;
+}
+
+#nav{
+	font-family: 'Raleway', sans-serif;
+}
+
+#skills{
+	font-family: 'Raleway', sans-serif;
+}
+
+#skillsOverview{
+	font-family: 'Raleway', sans-serif;
+	color: black;
+}
+
+#banner{
+	background-image: url(https://images.pexels.com/photos/3888151/pexels-photo-3888151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	background-position: center;
+	background-size: cover;
+}
+
+#footerSkills{
+	font-family: 'Raleway', sans-serif;
+}
+
+#footerSkills{
+	background-color: #a59e8cff;
+}
+
+i{
+	color: white;
+}
+
+p{
+	word-wrap: break-word ;
+}
+
+h5{
+	word-wrap: break-word;
+}
+
+#jumbotron{
+	background-color: #93A8AC;
+}

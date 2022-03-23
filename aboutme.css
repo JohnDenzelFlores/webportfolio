@@ -1,0 +1,33 @@
+#nav{
+	background-color: #a59e8cff;
+}
+
+#nav{
+	font-family: 'Raleway', sans-serif;
+}
+
+#aboutMe{
+	font-family: 'Raleway', sans-serif;
+}
+
+#banner{
+	background-image: url(https://images.pexels.com/photos/1069798/pexels-photo-1069798.jpeg);
+	background-position: center;
+	background-size: cover;
+}
+
+#footerAboutMe{
+	font-family: 'Raleway', sans-serif;
+}
+
+#footerAboutMe{
+	background-color: #a59e8cff;
+}
+
+i{
+	color: white;
+}
+
+#carouselText{
+	font-size: 80%;
+}

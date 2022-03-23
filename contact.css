@@ -1,0 +1,34 @@
+#nav{
+	background-color: #a59e8cff;
+}
+
+#nav{
+	font-family: 'Raleway', sans-serif;
+}
+
+#contact{
+	font-family: 'Raleway', sans-serif;
+}
+
+#gmap{
+	height: 60vh;
+	width: 100%;
+}
+
+#footerContact{
+	font-family: 'Raleway', sans-serif;
+}
+
+#footerContact{
+	background-color: #a59e8cff;
+}
+
+i{
+	color: white;
+}
+
+#banner{
+	background-image: url(https://images.pexels.com/photos/4039921/pexels-photo-4039921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	background-position: center;
+	background-size: cover;
+}
