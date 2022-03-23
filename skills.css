@@ -12,11 +12,11 @@
 
 #skillsOverview{
 	font-family: 'Raleway', sans-serif;
-	color: black;
+	color: whitesmoke;
 }
 
 #banner{
-	background-image: url(https://images.pexels.com/photos/3888151/pexels-photo-3888151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	background-image: url(https://images.pexels.com/photos/1764702/pexels-photo-1764702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
 	background-position: center;
 	background-size: cover;
 }
@@ -42,5 +42,7 @@ h5{
 }
 
 #jumbotron{
-	background-color: #93A8AC;
+	background-color: rgba(0, 0, 10, 0.3);
+	border-style: solid;
+	border-color: rgba(0, 0, 50, 0.3);
 }

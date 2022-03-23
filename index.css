@@ -15,7 +15,7 @@ i{
 }
 
 #banner{
-	background-image: url(https://images.pexels.com/photos/414645/pexels-photo-414645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-image: url(https://images.pexels.com/photos/785429/pexels-photo-785429.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
 	background-position: center;
 	background-size: cover;
 }
@@ -26,4 +26,8 @@ i{
 
 #footerHome{
 	background-color: #a59e8cff;
+}
+
+p{
+	color: white;
 }
